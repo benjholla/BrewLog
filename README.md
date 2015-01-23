@@ -28,9 +28,11 @@ Fork this repository to your Github User or Organization account.
 
 First, if you don't like the name `BrewLog` as your base URL then rename your repository to something you see more fitting.
 
-Next delete the `gh-pages` branch.  Once the branch is deleted, create it again fresh off of master!
+Next delete the `gh-pages` branch.
 
 Enter `BrewLog` (or whatever you entered for the base URL) in the `baseurl` field of the _config.yml file.
+
+Once you've committed the change to _config.yml, create the `gh-pages` branch again fresh off of the latest master!
 
 Your Jekyll based homebrew log should be viewable now at `your_github_username_or_organization_name.github.io/BrewLog` (or whatever base URL you changed your repo name to be in place of `BrewLog`.
 
@@ -39,6 +41,8 @@ Your Jekyll based homebrew log should be viewable now at `your_github_username_o
 Rename the repository to `your_github_username_or_organization_name.github.io`.
 
 Your Jekyll based homebrew log should be viewable immediately at `your_github_username_or_organization_name.github.io` (if it's not, you can often force it to build by completing step 2.
+
+Delete the `gh-pages` branch.  You won't be needing it.
 
 ### Step 2) Customize and view your site
 
@@ -55,8 +59,6 @@ There are 3 different ways that you can make changes to your blog's files:
 ### Step 3) Publish your first brew
 
 Edit `/_posts/2014-12-5-oatmeal-stout.md` to replace the default content and log your first blog brew. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
-
-
 
 > You can add additional brews in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog brew and make sure the brew's filename is in this format: `year-month-day-title.md`
 
@@ -86,4 +88,4 @@ Edit `/_posts/2014-12-5-oatmeal-stout.md` to replace the default content and log
 ✘ No installing dependencies  
 ✘ No need to set up local development  
 ✘ No configuring plugins  
-✘ No need to spend time on themes  
+✘ No need to spend time on themes
