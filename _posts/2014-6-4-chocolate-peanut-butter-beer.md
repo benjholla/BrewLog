@@ -22,4 +22,4 @@ I used <a href="http://www.amazon.com/gp/product/B00B40WZXA/ref=as_li_tl?ie=UTF8
 I used <a href="http://www.amazon.com/gp/product/B001E5E0Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E5E0Y2&linkCode=as2&tag=zombiest-20&linkId=KYHZYACDNFH2365K">Navitas Naturals Organic Raw Cacao Powder</a> for the cocoa powder.
 
 ## Tasting Notes
-Tasting after secondary was not good...very bitter.  You really need to wait the 2-12 months the recipie claims.  After 3 or so months the beer had improved significatly.  However it was very drinkable at 8 months.  The peanut butter taste wasn't very strong, the chocolate taste is what really prevailed.  The beer does have a kick.
+Tasting after secondary was not good...very bitter.  You really need to wait the 2-12 months the recipie claims.  After 3 or so months the beer had improved significatly.  It was finally drinkable at 8 months.  The peanut butter taste wasn't very strong, the chocolate taste is what really prevailed.
