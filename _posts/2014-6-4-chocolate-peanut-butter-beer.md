@@ -1,6 +1,6 @@
 ---
 layout: brew
-title: Oatmeal Stout
+title: Chocolate Peanut Butter Beer
 yield: 5 gallons
 OG: 1.073
 intermediate-gravity-readings: 1.016 (Secondary)
