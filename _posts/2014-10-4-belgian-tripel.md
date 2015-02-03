@@ -20,4 +20,4 @@ My kit was missing the dried orange peel so I ended up using 1 oz. fresh orange 
 ## Tasting Notes
 Tasted about 3 weeks after bottling.  Had a nice taste overall.  Orange peel is obviously there, but not over-powering at all.  Its tasted strong beer for sure.  Reminds me of a Stella Artois on the first part of the sip but ends with a heavier beer hinted with oranges.
 
-Tasted again 3 months after bottling and the beer got better.  The orange scaled down, but still has a light citrus fresh aftertaste now.  The first sips are sweet to nose (notes of vanilla even) and the first taste is almost creamy but quickly blends back to a Belgian.  Overall the heavier tastes from earlier have lightend up a lot and it's very drinkable.
+Tasted again 3 months after bottling and the beer got much better.  The orange scaled back a lot, but still has a light citrus fresh aftertaste now.  The first sips are sweet to nose (notes of vanilla even) and the first taste is almost creamy but quickly blends back to a Belgian.  Overall the heavier tastes from earlier have lightend up a lot and it is very drinkable.
