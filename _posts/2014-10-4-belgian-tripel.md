@@ -18,6 +18,6 @@ This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupp
 My kit was missing the dried orange peel so I ended up using 1 oz. fresh orange peel in place.  Steeped grains for about 20 minutes.  Transferred to secondary fermentation after about 2-3 weeks.  Bottled about two and a half months later.
 
 ## Tasting Notes
-Tasted about 3 weeks after bottling.  Had a nice taste overall.  Orange peel is obviously there, but not over-powering at all.  Its tasted strong beer for sure.  Reminds me of a Stella Artois on the first part of the sip but ends with a heavier beer hinted with oranges.
+Tasted about 3 weeks after bottling.  Had a nice taste overall.  Orange peel is obviously there, but not over-powering at all.  Reminds me of a Stella Artois on the first part of the sip but ends with a heavier beer hinted with oranges.
 
 Tasted again 3 months after bottling and the beer got much better.  The orange scaled back a lot, but still has a light citrus fresh aftertaste now.  The first sips are sweet to nose (notes of vanilla even) and the first taste is almost creamy but quickly blends back to a Belgian.  Overall the heavier tastes from earlier have lightened up and it has become very drinkable.
