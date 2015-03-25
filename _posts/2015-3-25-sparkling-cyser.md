@@ -3,7 +3,7 @@ layout: brew
 title: Sparkling Cyser
 yield: 5 gallons
 OG: 1.124
-FG: TBD
+FG: 1.124
 ---
 
 ## Ingredients
