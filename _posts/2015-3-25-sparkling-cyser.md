@@ -1,0 +1,21 @@
+---
+layout: brew
+title: Sparkling Cyser
+yield: 5 gallons
+OG: 1.124
+FG: 1.124
+---
+
+## Ingredients
+5 gallons preservative-free apple cider, 12 lbs. honey, 4 cinnamon sticks, 2 medium sized lemons, 8 whole cloves, and [Red Star Pasteur Champagne yeast](http://www.amazon.com/gp/product/B0064OBJ2E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0064OBJ2E&linkCode=as2&tag=zombiest-20&linkId=RT243E3X4QECZTAZ)
+
+## Recipe
+This was a homemade recipe. Bring 3 gallons apple cider to boil.  Remove pot from burner and add honey.  Stir until disolved and return to a boil.  Add cinnamon and cloves and boil for 60 minutes.  At the last 15 minutes add the juice and meat and rinds of the two lemons.  Chill brew and add the remaining two gallons of apple cider.  Sprinkle yeast on top and add 3 teaspoons of [Fermax yeast nutrient](http://www.amazon.com/gp/product/B0064OPEFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0064OPEFC&linkCode=as2&tag=zombiest-20&linkId=UTHQYLR52OJI4F7Q)
+
+According to Wikipedia a [mead](https://en.wikipedia.org/wiki/Mead) made with cinnamon and apples may be referred to as either a cinnamon cyser or an apple metheglin.
+
+## Brew Notes
+We used [Musselman's 100% Juice Apple Cider](http://www.amazon.com/gp/product/B00JX9J7K8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00JX9J7K8&linkCode=as2&tag=zombiest-20&linkId=OIG4IEBGYZTEXP4L), which is pasteurized but preservative free.  We bought a gallon (12 lbs.) of local pure honey from [Moenck Honey Farms](https://facilityexplorer.iowadnr.gov/facilityexplorer/SiteDetail.aspx?facID=310386848) in Lehigh, IA.  We used 4 [McCormick brand cinnamon sticks](http://www.amazon.com/gp/product/B00OKAPLSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00OKAPLSC&linkCode=as2&tag=zombiest-20&linkId=M2SNJZRATIZSK2HE).
+
+## Tasting Notes
+TBD
