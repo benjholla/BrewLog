@@ -8,7 +8,7 @@ FG: 1.004
 ---
 
 ## Ingredients
-5 gallons preservative-free apple cider, 11 lbs. clover honey, 3 cinnamon sticks, 1 teaspoon dried orange peel, 6 whole cloves, Red Star Champagne yeast
+5 gallons preservative-free apple cider, 11 lbs. clover honey, 3 cinnamon sticks, 1 teaspoon dried orange peel, 6 whole cloves, and [Red Star Pasteur Champagne yeast](http://www.amazon.com/gp/product/B0064OBJ2E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0064OBJ2E&linkCode=as2&tag=zombiest-20&linkId=RT243E3X4QECZTAZ)
 
 ## Recipe
 This was a recipe from the book [Homebrew Favorites: A Coast-to-Coast Collection of More Than 240 Beer and Ale Recipes](http://www.amazon.com/gp/product/0882666134/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0882666134&linkCode=as2&tag=zombiest-20&linkId=UY6L6PGEVR5I4DIQ).
