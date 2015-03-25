@@ -8,7 +8,7 @@ FG: 1.004
 ---
 
 ## Ingredients
-1 gallon water, 4 cups honey, 3 chopped nutmegs, meat of 1 large or 2 small lemons, wild yeast
+1 gallon water, 4 cups honey, 3 chopped nutmegs, meat of 1 large or 2 small lemons, wild yeast (or alternatively a champagne yeast)
 
 ## Recipe
 This was a recipe from the book [Homebrew Favorites: A Coast-to-Coast Collection of More Than 240 Beer and Ale Recipes](http://www.amazon.com/gp/product/0882666134/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0882666134&linkCode=as2&tag=zombiest-20&linkId=UY6L6PGEVR5I4DIQ).
