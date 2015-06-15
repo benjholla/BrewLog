@@ -4,6 +4,7 @@ title: Oaked Raspberry Mead
 yield: 1 gallon
 pH: 3.82
 OG: 1.0698
+FG: 1.0698
 ---
 
 ## Ingredients
