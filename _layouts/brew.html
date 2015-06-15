@@ -13,6 +13,8 @@ layout: default
         {% if page.intermediate-gravity-readings %}<tr><td>Intermediate Gravity Readings</td><td>{{ page.intermediate-gravity-readings }}</td></tr>{% endif %}
         {% if page.FG %}<tr><td>Final Gravity (FG)</td><td>{{ page.FG }}</td></tr>{% endif %}
         {% if page.OG %}{% if page.FG %}<tr><td class="hover-tooltip" tip="Alcohol by volume = (OG - FG) * 131.25">Estimated ABV*</td><td>{{ page.OG | minus:page.FG | times:131.25 }} &#37;</td></tr>{% endif %}{% endif %}
+        {% if page.OPH %}<tr><td>IBUs</td><td>{{ page.OPH }}</td></tr>{% endif %}
+        {% if page.FPH %}<tr><td>IBUs</td><td>{{ page.FPH }}</td></tr>{% endif %}
         {% if page.bottle-date %}<tr><td>Bottle Date</td><td>{{ page.bottle-date | date: "%B %e, %Y" }}</td></tr>{% endif %}
         {% if page.keg-date %}<tr><td>Bottle Date</td><td>{{ page.keg-date | date: "%B %e, %Y" }}</td></tr>{% endif %}
         {% if page.IBUs %}<tr><td>IBUs</td><td>{{ page.IBUs }}</td></tr>{% endif %}
