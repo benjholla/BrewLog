@@ -1,6 +1,6 @@
 ---
 layout: brew
-title: Experiment 1B - Mead Yeast Variants
+title: Mead Experiment 1B - Yeast Strains
 yield: 1 gallon
 OPH: 4.90
 OG: 1.097
