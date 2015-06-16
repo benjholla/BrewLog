@@ -16,7 +16,7 @@ Bring 3 gallons of distilled water to a vigorous boil for 10 minutes.  Remove fr
 Sprinkle the Pasteur Champagne yeast on the must in the second fermenter.
 
 ## Brew Notes
-I didn't remember to check the pH until after the yeast to each primary fermenter.  The pH was a bit high, but I didn't feel confident that I could lower the pH consistently for each batch so instead I decided to leave it as it was.
+I didn't remember to check the pH until after the yeast to each primary fermenter.  The pH was a bit high, but I didn't feel confident that I could lower the pH consistently for each batch so instead I decided to leave it as it was. Refractometer read 22.5 Brix (1.094). Hydrometer reading was 1.100.  Took the average of the two readings to get 1.097 for the OG.
 
 No signs of fermentation in the first 3 hours.
 
