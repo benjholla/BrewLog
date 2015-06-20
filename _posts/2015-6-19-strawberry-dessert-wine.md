@@ -8,7 +8,7 @@ FG: 1.110
 ---
 
 ## Ingredients
-23.3 lbs. processed and mashed strawberries, 12 lbs. rock candy sugar, 1/4 teaspoon sodium metabisulfite, 5 teaspoons pectic enzymes, 5 teaspoons yeast nutrient, 2 packages Champagne yeast
+23.3 lbs. processed and mashed strawberries, 12 lbs. rock candy sugar, 1/4 teaspoon sodium metabisulfite, 5 teaspoons pectic enzymes, 5 teaspoons yeast nutrient, 2 packages Red Star Champagne yeast
 
 ## Recipe
 We followed the strawberry dessert wine recipe at [http://www.eckraus.com/wine-making-strawberry](http://www.eckraus.com/wine-making-strawberry).
