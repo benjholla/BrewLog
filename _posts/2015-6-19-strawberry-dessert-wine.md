@@ -1,7 +1,7 @@
 ---
 layout: brew
 title: Strawberry Dessert Wine
-yield: 1 gallon
+yield: 5 gallons
 OPH: 3.49
 OG: 1.110
 FG: 1.110
