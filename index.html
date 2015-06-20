@@ -7,7 +7,7 @@ layout: default
     <article class="brew">    
       
       <h1><a href="{{ site.baseurl }}{{ brew.url }}">{{ brew.title }}</a></h1>
-	  {% if brew.OG %}{% if brew.FG %}<pre class="hover-tooltip" tip="Alcohol by volume = (OG - FG) * 131.25 = ({{ brew.OG }} - {{ brew.FG }}) * 131.25 = {{ brew.OG | minus:brew.FG | times:131.25 }} &#37;">Estimated ABV: {{ brew.OG | minus:brew.FG | times:131.25 }} &#37;</pre>{% endif %}{% endif %}
+      {% unless brew.fermenting %}{% if brew.OG %}{% if brew.FG %}<pre class="hover-tooltip" tip="Alcohol by volume = (OG - FG) * 131.25 = ({{ brew.OG }} - {{ brew.FG }}) * 131.25 = {{ brew.OG | minus:brew.FG | times:131.25 }} &#37;">Estimated ABV: {{ brew.OG | minus:brew.FG | times:131.25 }} &#37;</pre>{% endif %}{% endif %}{% endunless %}
       <div class="date">Brewed on {{ brew.date | date: "%B %e, %Y" }}</div>
 
       <div class="entry">
