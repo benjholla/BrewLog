@@ -18,7 +18,7 @@ Sprinkle the Montrachet yeast on the must in the third fermenter.
 ## Brew Notes
 I didn't remember to check the pH until after the yeast to each primary fermenter.  The pH was a bit high, but I didn't feel confident that I could lower the pH consistently for each batch so instead I decided to leave it as it was. Refractometer read 22.5 Brix (1.094). Hydrometer reading was 1.100.  Took the average of the two readings to get 1.097 for the OG.
 
-Light bubbling (30-45 second intervals) in the airlock occurred in less than 3 hours.
+Light bubbling (30-45 second intervals) in the airlock occurred in less than 3 hours. The bulk of the fermentation finished about 5 days later (about 2 days earlier than the Red Star Pasteur Champagne and the Red Star Premier Cuvee yeasts).
 
 ## Tasting Notes
 TODO
