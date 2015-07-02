@@ -14,7 +14,7 @@ fermenting: true
 This was an extract kit from [True Brew](http://www.amazon.com/gp/product/B003SSLEHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003SSLEHO&linkCode=as2&tag=zombiest-20&linkId=ADFFPGSUEU65NSZR). The recipe is available online [here](http://bsghandcraft.com/downloads/TrueBrewInstructions/K12-AmericanWheat.pdf).
 
 ## Brew Notes
-Transferred to secondary after several weeks.
+Racked to secondary after 10 weeks.
 
 ## Tasting Notes
 TBD
