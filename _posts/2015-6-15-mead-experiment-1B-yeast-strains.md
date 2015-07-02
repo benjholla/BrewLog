@@ -18,7 +18,7 @@ Sprinkle the Pasteur Champagne yeast on the must in the second fermenter.
 ## Brew Notes
 I didn't remember to check the pH until after the yeast to each primary fermenter.  The pH was a bit high, but I didn't feel confident that I could lower the pH consistently for each batch so instead I decided to leave it as it was. Refractometer read 22.5 Brix (1.094). Hydrometer reading was 1.100.  Took the average of the two readings to get 1.097 for the OG.
 
-No signs of fermentation in the first 3 hours.  Light bubbling (30-45 second intervals) in the airlock at about 10 hours. The bulk of the fermentation finished about 1 week later, with the Montrachet yeast finishing about 2 days sooner.
+No signs of fermentation in the first 3 hours.  Light bubbling (30-45 second intervals) in the airlock at about 10 hours. The bulk of the heavy fermentation finished about 1 week later, with the Montrachet yeast finishing about 2 days sooner.   Racked to seconday at 2 week mark.
 
 ## Tasting Notes
 TODO
