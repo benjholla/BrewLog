@@ -5,7 +5,6 @@ yield: 5 gallons
 OG: 1.053
 intermediate-gravity-readings: 1.020
 FG: 1.020
-fermenting: true
 ---
 
 ## Ingredients
