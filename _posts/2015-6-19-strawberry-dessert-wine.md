@@ -3,6 +3,7 @@ layout: brew
 title: Strawberry Dessert Wine
 yield: 5 gallons
 OPH: 3.49
+FPH: 3.265
 OG: 1.110
 FG: .990
 ---
@@ -19,4 +20,4 @@ The recipe called for 25 pounds of strawberries, but was unclear about wether th
 Fermentation kicked off within the hour, before we left for the weekend.  After two days, we noticed a very light sulfur smell so with the thought that the yeast might be stressed I added 3 teaspoons of yeast nutrient and lightly stirred it in.  Possibly the sodium metabisulfite was still working its way out of the carboy or it had stressed the yeast when we added the juice liqueur early by not waiting the full 24 hours.  The carboy did have signs of a pretty aggressive fermentation over the weekend and still seemed to have a healthy amount of activity so fingers crossed it comes out alright.  That little boost helped and the next day there were no more sulfur smells (just happy yeast smells).
 
 ## Tasting Notes
-TODO
+At secondary the color was a clear light red with a hint of orange to it.  More acidic taste on the back of your tongue than you would expect from the sweet strawberry juice aroma it gives off to the noise.  The heat of the high alcohol is last note you end with after swallowing. Planning to age this a bit longer in the secondary and let the alcohol taste mellow out a bit and then we will consider sweetening it if need be at that time.
