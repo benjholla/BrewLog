@@ -3,8 +3,10 @@ layout: brew
 title: Mead Experiment 1C - Yeast Strains
 yield: 1 gallon
 OPH: 4.90
+FPH: 3.18
 OG: 1.097
-fermenting: true
+FG: 1.000
+fermenting: false
 ---
 
 ## Ingredients
