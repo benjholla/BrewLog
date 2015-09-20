@@ -3,7 +3,7 @@ layout: brew
 title: Coffee Stout
 yield: 5 gallons
 OG: 1.046
-FG: 1.022
+FG: 1.017
 ---
 
 ## Ingredients
