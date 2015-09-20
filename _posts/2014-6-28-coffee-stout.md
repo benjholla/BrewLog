@@ -7,7 +7,7 @@ FG: 1.017
 ---
 
 ## Ingredients
-6 lbs. darl liquid malt extract, 8 oz. chocolate malt, 4 oz. flaked barley, 4 oz. caramel 60L, 4 oz. roasted barley, Safale Ale S-04 Whitbread strain dry yeast
+6 lbs. dark liquid malt extract, 8 oz. chocolate malt, 4 oz. flaked barley, 4 oz. caramel 60L, 4 oz. roasted barley, Safale Ale S-04 Whitbread strain dry yeast
 
 ## Recipe
 This was an extract kit from [Midwest Homebrewing Supply](https://www.midwestsupplies.com/peace-coffee-java-stout-kit.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/659/Peace%20Coffee%20Java%20Stout%20instructions.pdf).
