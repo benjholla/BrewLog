@@ -16,4 +16,4 @@ This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupp
 Used a brew bag for hops.  Left in primary for 4-5 weeks and bottled without a secondary fermentation.
 
 ## Tasting Notes
-I was trying to imitate Peace Tree Brewing's [Blonde Fatale](http://www.beeradvocate.com/beer/profile/21818/60168/) and I think it came pretty close.
+I was hoping for something similar to Peace Tree Brewing's [Blonde Fatale](http://www.beeradvocate.com/beer/profile/21818/60168/) and I think it came pretty close.
