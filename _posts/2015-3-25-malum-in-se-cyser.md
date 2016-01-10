@@ -1,9 +1,10 @@
 ---
 layout: brew
-title: Sparkling Cyser
+title: Malum in Se Cyser
 yield: 5 gallons
 OG: 1.124
-fermenting: true
+FG: 1.012
+fermenting: false
 ---
 
 ## Ingredients
