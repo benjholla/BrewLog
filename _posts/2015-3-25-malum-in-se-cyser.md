@@ -4,6 +4,7 @@ title: Malum in Se Cyser
 yield: 5 gallons
 OG: 1.124
 FG: 1.012
+FPH: 3.78
 fermenting: false
 ---
 
