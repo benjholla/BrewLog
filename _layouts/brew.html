@@ -5,14 +5,6 @@ layout: default
 <article class="brew">
   <h1>{{ page.title }}</h1>
 
-  {% if page.image %}
-  <div style="float:right;">
-    <a href="{{ site.baseurl }}/images/brews/{{ page.image }}" data-lightbox="{{ page.title }}" data-title="{{ page.title }}">
-      <img src="{{ site.baseurl }}/images/brews/{{ page.image }}" alt="{{ page.title }}" width="25%" height="25%" />
-    </a>
-  </div>
-  {% endif %}
-  
   <div class="brew-details">
     <table>
         <tr><td>Brew Date</td><td>{{ page.date | date: "%B %e, %Y" }}</td></tr>
@@ -28,6 +20,14 @@ layout: default
         {% if page.IBUs %}<tr><td>IBUs</td><td>{{ page.IBUs }}</td></tr>{% endif %}
     </table>
   </div>
+  
+  {% if page.image %}
+  <div style="float:left;">
+    <a href="{{ site.baseurl }}/images/brews/{{ page.image }}" data-lightbox="{{ page.title }}" data-title="{{ page.title }}">
+      <img src="{{ site.baseurl }}/images/brews/{{ page.image }}" alt="{{ page.title }}" width="150" />
+    </a>
+  </div>
+  {% endif %}
 
   <div class="entry">
     {{ content }}
