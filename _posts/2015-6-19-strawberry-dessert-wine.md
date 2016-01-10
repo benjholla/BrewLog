@@ -6,6 +6,7 @@ OPH: 3.49
 FPH: 3.265
 OG: 1.110
 FG: .990
+image: strawberry-dessert-wine.jpg
 ---
 
 ## Ingredients
