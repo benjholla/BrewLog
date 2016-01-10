@@ -5,7 +5,7 @@ layout: default
 <article class="brew">
   <h1>{{ page.title }}</h1>
 
-  <div class="brew-details">
+  <div class="brew-details" style="float:left;">
     <table>
         <tr><td>Brew Date</td><td>{{ page.date | date: "%B %e, %Y" }}</td></tr>
         {% if page.yield %}<tr><td>Yield</td><td>{{ page.yield }}</td></tr>{% endif %}
@@ -22,7 +22,7 @@ layout: default
   </div>
   
   {% if page.image %}
-  <div style="float:left;">
+  <div style="float:left; padding-left:20px;">
     <a href="{{ site.baseurl }}/images/brews/{{ page.image }}" data-lightbox="{{ page.title }}" data-title="{{ page.title }}">
       <img src="{{ site.baseurl }}/images/brews/{{ page.image }}" alt="{{ page.title }}" width="150" />
     </a>
