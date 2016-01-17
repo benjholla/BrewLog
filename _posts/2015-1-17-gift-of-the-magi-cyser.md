@@ -5,6 +5,8 @@ yield: 5 gallons
 OG: 1.118
 intermediate-gravity-readings: 1.004 (Secondary)
 FG: 1.004
+fermenting: false
+image: gift-of-the-magi-cyser.jpg
 ---
 
 ## Ingredients
