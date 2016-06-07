@@ -9,7 +9,7 @@ IBUs: 68
 ---
 
 ## Ingredients
-6 lbs. Gold liquid malt extract, 2 lbs. Light dried malt extract, 1 lb. 6-row malt, 1 lb. rolled oats, 4 oz. Carapils, 8 oz. Roasted Barley, 8 oz. Caramel 120, 1 oz. Chinook, 2 oz. Spalt, 1.6 lbs. chocolate malt, 4 oz. cocoa nibs, 2 6.5-oz. jars dried peanut butter, 1/4 cup cocoa powder, Safale US-05 Dry Yeast
+6 lbs. Gold liquid malt extract, 2 lbs. Light dried malt extract, 1 lb. 6-row malt, 1 lb. rolled oats, 4 oz. Carapils, 8 oz. Roasted Barley, 8 oz. Caramel 120, 1 oz. Chinook, 2 oz. Spalt, 1.6 lbs. chocolate malt, 4 oz. cocoa nibs, 2 6.5-oz. jars dried peanut butter, 1/4 cup cocoa powder, Safale US-05 Dry yeast
 
 ## Recipe
 This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupplies.com/chocolate-covered-beavr-nutz-beer-kit.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/431/BEAVR%20Nutz%20Instructions%20v.2.pdf).
@@ -22,4 +22,4 @@ I used <a href="http://www.amazon.com/gp/product/B00B40WZXA/ref=as_li_tl?ie=UTF8
 I used <a href="http://www.amazon.com/gp/product/B001E5E0Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001E5E0Y2&linkCode=as2&tag=zombiest-20&linkId=KYHZYACDNFH2365K">Navitas Naturals Organic Raw Cacao Powder</a> for the cocoa powder.
 
 ## Tasting Notes
-Tasting after secondary was not good...very bitter.  You really need to wait the 2-12 months the recipie claims.  After 3 or so months the beer had improved significatly.  It was finally drinkable at 8 months.  The peanut butter taste wasn't very strong, the chocolate taste is what really prevailed.  At 9 months it tastes like a nice chocolate porter, with a kick.
+Tasting after secondary was not good...very bitter.  You really need to wait the 2-12 months the recipe claims.  After 3 or so months the beer had improved significantly.  It was finally drinkable at 8 months.  The peanut butter taste wasn't very strong, the chocolate taste is what really prevailed.  At 9 months it tastes like a nice chocolate porter, with a kick.
