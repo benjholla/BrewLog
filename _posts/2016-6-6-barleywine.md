@@ -7,7 +7,7 @@ IBUs: 90.9
 ---
 
 ## Ingredients
-6 lbs. Gold liquid malt extract, 6 lbs. Amber liquid malt extract, 8 oz. Carapils, 8 oz. Caramel 40L specialty grain, 1.5 oz. Chinook, 1 oz. Centennial, 2 oz. Cascade hops, Safale US-05 Dry yeast, Red Star Pasteur Champagne yeast
+6 lbs. Gold liquid malt extract, 6 lbs. Amber liquid malt extract, 8 oz. Carapils, 8 oz. Caramel 40L specialty grain, 1.5 oz. Chinook, 1 oz. Centennial, 2 oz. Cascade hops, Safale US-05 yeast, Red Star Pasteur Champagne yeast
 
 ## Recipe
 This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupplies.com/bigfoot-s-barleywine-kit.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/22/Bigfoot's%20Barleywine%20Instructions.pdf).
