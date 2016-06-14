@@ -276,9 +276,11 @@ nav {
     font-size: 15px;
   }
   
-  .photo img { 
-    border:1px solid #021a40;
-    border-radius: 5px;
+  .photo {
+    img { 
+      border:1px solid #021a40;
+      border-radius: 5px;
+    }
   }
 }
 
