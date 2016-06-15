@@ -13,7 +13,7 @@ IBUs: 78.5
 This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupplies.com/bourbon-barrel-old-ale-kit.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/26/Bourbon%20Barrel%20Old%20Ale%20Instructions.pdf).
 
 ## Brew Notes
-Followed the recipe pretty much to the letter. Steeped grains for the full 30 minutes. I made a 1200 ml yeast starter using the Safale S-04 yeast. I'm still deciding on a bourbon or whiskey to  use to soak the oak cubes.
+Followed the recipe pretty much to the letter. Steeped grains for the full 30 minutes. I made a 1200 ml yeast starter using the Safale S-04 yeast. I finally decided on using a [Cedar Ridge 5 Year Reserve Bourbon Whiskey](http://www.crwine.com/whiskey/) (batch number 7, bottle number 480) to  use to soak the oak cubes.
 
 ## Tasting Notes
 TBD
