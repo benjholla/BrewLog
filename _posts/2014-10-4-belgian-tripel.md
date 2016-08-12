@@ -23,3 +23,5 @@ Tasted about 3 weeks after bottling.  Had a nice taste overall.  Orange peel is 
 Tasted again 3 months after bottling and the beer got much better.  The orange scaled back a lot, but still has a light citrus fresh aftertaste now.  The first sips are sweet to nose (notes of vanilla even) and the first taste is almost creamy but quickly blends back to a Belgian.  Overall the heavier tastes from earlier have lightened up and it has become very drinkable.
 
 At around 6 months this beer got very good!  Probably one of my favorites so far.
+
+**Update:** Found 3 bottles of these in August 2016 (almost 2 years later) and enjoying it a lot. Still has prominent orange peel notes, a very crisp and refreshing mouth feel. Has an almost sweet finish.
