@@ -3,8 +3,10 @@ layout: brew
 title: Sabotage Saison
 yield: 5 gallons
 OG: 1.060
-FG: 1.004
+intermediate-gravity-readings: 1.004
+FG: 1.002
 fermenting: false
+
 ---
 
 ## Ingredients
