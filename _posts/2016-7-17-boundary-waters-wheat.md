@@ -3,6 +3,7 @@ layout: brew
 title: Boundary Waters Wheat
 yield: 5 gallons
 OG: 1.046
+FG: 1.013
 
 ---
 
