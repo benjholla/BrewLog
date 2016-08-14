@@ -3,7 +3,10 @@ layout: brew
 title: Barleywine
 yield: 5 gallons
 OG: 1.086
+intermediate-gravity-readings: 1.023
+FG: 1.023
 IBUs: 90.9
+
 ---
 
 ## Ingredients
@@ -13,7 +16,7 @@ IBUs: 90.9
 This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupplies.com/bigfoot-s-barleywine-kit.html).  The recipe is available online [here](http://www.midwestsupplies.com/media/downloads/22/Bigfoot's%20Barleywine%20Instructions.pdf).
 
 ## Brew Notes
-Followed the recipe pretty much to the letter. Steeped grains for about 25 minutes. I made a 1200 ml yeast starter using the Safale US-05 dry yeast. Later I will add the Pasteur Champagne yeast as a finishing yeast.
+Followed the recipe pretty much to the letter. Steeped grains for about 25 minutes. I made a 1200 ml yeast starter using the Safale US-05 dry yeast. Later I will add the Pasteur Champagne yeast as a finishing yeast. Added the finishing champagne yeast after 2 months.
 
 ## Tasting Notes
 TBD
