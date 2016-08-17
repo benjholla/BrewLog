@@ -1,0 +1,23 @@
+---
+layout: brew
+title: Apple Cider
+yield: 6 gallons
+OG: 1.050
+OPH: 3.63
+fermenting: true
+
+---
+
+## Ingredients
+~50 lbs. fresh picked tart and sweet apples, 4 Campden tablets lbs. 2 teaspoons pectic enzyme, 4 gallons Musselman's fresh pressed apple juice, and Safcider dry yeast
+
+## Recipe
+We were given ~50 pounds of fresh picked apples. The exact varieties were unknown but the green apples tasted similar to a granny smith apple and the red apples tasted similar to a braeburn apple.
+
+We did not have a press, so we blended each batch of cored apples with a small bit of store bought Musselman's brand apple juice into a pulp. We later ran the pulp through a strainer and kept only the juice. A juice press would have been more efficient and the yield would probably have been better, but this process worked. Using 1.5 gallons of Musselman's brand apple juice and our supply of apples we yeilded 4 gallons of cider. We added 4 Campden tablets and 2 teaspoons of pectic enzyme (the standard ratios per gallon) and left covered with a towel overnight. We created a yeast starter using the remaining half-gallon of Musselman's apple juice and the Safecider dry yeast. After 24 hours we topped off with 2 gallons of Musselman's apple juice and pitched the yeast.
+
+## Brew Notes
+The Safecider does not show a lot of signs of activity and seems to be a slow starter, but it is working.
+
+## Tasting Notes
+The cider was very fresh and well balanced. I had quite the craving for cider after this.
