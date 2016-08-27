@@ -4,7 +4,10 @@ title: Apple Cider
 yield: 6 gallons
 OG: 1.050
 OPH: 3.63
-fermenting: true
+intermediate-gravity-readings: 1.004
+FG: 1.004
+FPH: 3.61
+fermenting: false
 
 ---
 
