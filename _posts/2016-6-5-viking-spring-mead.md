@@ -6,7 +6,7 @@ OG: 1.082
 OPH: 3.87
 intermediate-gravity-readings: 1.000
 FG: 1.000
-FPH: 3.42
+FPH: 3.48
 fermenting: false
 
 ---
@@ -25,4 +25,4 @@ We left the must open to the air over night. The next day we stirred vigorously 
 In the future I plan to be a little smarter with wild yeasts and create starters from wild yeasts I've tested on smaller batches (as described in [http://bootlegbiology.com/diy/capturing-yeast](http://bootlegbiology.com/diy/capturing-yeast/)).
 
 ## Tasting Notes
-TBD
+At around 3 months the mead had a wonderful fresh floral smell, but had a harsh plant-like after taste. After 10 months of aging the mead had really smoothed out. The un-oaked version had none of the bitter plant tastes and was incredibly smooth, but complex. Hints of floral and maybe even the rose are definitely present. Other notes of lemon and general fruitiness dance around. The taste ends acidic but its smells and tastes sweet. The oaked version was on oak for nearly 8 months. It added a distinct vanilla note to the nose. The smoothness and the complexity of the unoaked version remained the same, but the oak gave it a nice vanilla anchor of to tie it all together.
