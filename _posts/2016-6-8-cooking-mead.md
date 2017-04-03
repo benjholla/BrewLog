@@ -3,6 +3,7 @@ layout: brew
 title: Cooking Mead
 yield: 1 gallon
 OG: 1.108
+FG: 1.005
 ---
 
 ## Ingredients
@@ -19,4 +20,4 @@ We used a locally sold pure honey from [Moenck Honey Farms](https://facilityexpl
 After a small scare of infection on our [Viking Spring Mead recipe](/BrewLog/viking-spring-mead/) and since there were still no signs of a healthy fermentation I decided not to take any chances with this recipe either and reboiled the must, cooled with a wort chiller, and then added some Red Star Premier Cuvee yeast. Perhaps I just got lucky with my [first wild yeast recipe](/BrewLog/wild-yeast-mead/), but in the future I plan the first harvest wild yeasts and then create starters from wild yeast strains that show promise (as described in [http://bootlegbiology.com/diy/capturing-yeast](http://bootlegbiology.com/diy/capturing-yeast/)).
 
 ## Tasting Notes
-TBD
+Wow. Just wow. You really need to be a Viking to enjoy or even drink this. I think some chicken could cook up really nicely with a bit of this though, so I'll have to report back after trying it in a dish.
