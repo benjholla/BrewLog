@@ -4,7 +4,7 @@ title: Dandelion Wine
 yield: 1 gallon
 FG: 0.990
 FPH: 3.48
-fermenting: true
+fermenting: false
 
 ---
 
