@@ -3,8 +3,8 @@ layout: brew
 title: Blonde Ale (again)
 yield: 5 gallons
 OG: 1.047
-
-fermenting: true
+FG: 1.012
+fermenting: false
 
 ---
 
