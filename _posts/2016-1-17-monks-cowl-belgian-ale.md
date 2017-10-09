@@ -3,6 +3,7 @@ layout: brew
 title: Monk's Cowl Belgian Ale
 yield: 1 gallon
 OG: 1.044
+FG: 1.010
 fermenting: true
 ---
 
