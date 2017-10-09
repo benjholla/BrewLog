@@ -4,7 +4,7 @@ title: Boundary Waters Wheat
 yield: 5 gallons
 OG: 1.046
 FG: 1.012
-fermenting: true
+fermenting: false
 
 ---
 
