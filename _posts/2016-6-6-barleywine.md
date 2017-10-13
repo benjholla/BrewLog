@@ -4,7 +4,7 @@ title: Barleywine
 yield: 5 gallons
 OG: 1.086
 intermediate-gravity-readings: 1.023
-FG: 1.023
+FG: 1.022
 IBUs: 90.9
 
 ---
