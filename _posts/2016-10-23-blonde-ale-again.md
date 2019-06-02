@@ -18,4 +18,4 @@ This was an extract kit from [Midwest Homebrewing Supply](http://www.midwestsupp
 I steeped the grains on the longer end this time, close to the full 30 minutes. Used a brew bag for hops again.
 
 ## Tasting Notes
-Been craving some blonde ales again and this was one of my favorite brews so it was due for a re-brew. Near the end of my PhD I was too distracted and the airlock dried out on this one in secondary. I tried drinking a little of it, but I wasn't happy with the flavor so I dumped it. This was the first batch I ever dumped.
+Been craving some blonde ales again and this was one of my favorite brews so it was due for a re-brew. Near the end of my PhD I was too distracted and the airlock dried out on this one in secondary. I tried drinking a little of it, but I wasn't happy with the flavor so I dumped it. This was the first batch I ever dumped. To be safe for future batches I scrubbed the carboy the best I could and did a strong PBW wash to kill off any wild strains from lingering in the carboy.
