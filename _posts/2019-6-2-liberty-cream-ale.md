@@ -3,6 +3,7 @@ layout: brew
 title: Liberty Cream Ale
 yield: 5 gallons
 OG: 1.044
+FG: 1.012
 IBUs: 23
 ---
 
@@ -16,4 +17,4 @@ This was an extract kit from [Midwest Homebrewing Supply](https://www.midwestsup
 I steeped the grains for the full 30 minutes. We chose to decrease the IBUs by only adding .5oz of the bittering hops and only boiling the bittering hops for 30 minutes total. We did boil for the full 60 minutes and added the aroma hops at the last two minutes as was originally reccommended. I pitched the original and a second fresh packet of the dry yeast directly into the wort after chilling.
 
 ## Tasting Notes
-TBD
+Light and refreshing.
