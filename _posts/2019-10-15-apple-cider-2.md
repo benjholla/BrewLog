@@ -3,6 +3,7 @@ layout: brew
 title: Apple Cider II
 yield: 5 gallons
 OG: 1.053
+FG: 0.998
 ---
 
 ## Ingredients
