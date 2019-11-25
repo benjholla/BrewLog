@@ -3,6 +3,7 @@ layout: brew
 title: Old World Mead
 yield: 5 gallons
 OG: 1.124
+FG: 0.997
 ---
 
 ## Ingredients
