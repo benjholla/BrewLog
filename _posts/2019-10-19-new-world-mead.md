@@ -3,6 +3,7 @@ layout: brew
 title: New World Mead
 yield: 5 gallons
 OG: 1.124
+FG: 0.998
 ---
 
 ## Ingredients
