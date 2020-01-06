@@ -13,7 +13,7 @@ FG: 0.997
 Washed, halved, and juiced lemons. Added lemon juice and juiced lemons. Warmed honey in jug in bath of warm water. Added a gallon of cider to fermenter and poured in honey. Added honey to jug and shook to get all honey. Added remaining cider. Added cinnamon and cloves and stirred vigorously to aerate and pitched yeast. 
 
 ## Brew Notes
-We did a yeast starter with honey over two days then crashed and washed with cider and more honey for another two days. Added a Staggered Nutrient Addition (SNA) of Fermaid-O and Fermaid-K described by [https://www.homebrewersassociation.org](https://www.homebrewersassociation.org/how-to-brew/improve-mead-staggered-nutrient-additions/) while degassing every otherday for the first week.
+We did a yeast starter with honey over two days then crashed and washed with cider and more honey for another two days. Added a Staggered Nutrient Addition (SNA) of Fermaid-O and Fermaid-K described by [https://www.homebrewersassociation.org](https://www.homebrewersassociation.org/how-to-brew/improve-mead-staggered-nutrient-additions/) while degassing every otherday for the first week. Transferred to secondary at 1 month. Re-racked at 2 months and added 2.75 oz. of Hungarian oak cubes with medium toast (oak cubes were added directly with no boil or soaking).
 
 ## Tasting Notes
 TBD
