@@ -5,7 +5,6 @@ yield: 5 gallon
 OG: 1.116
 OPH: 3.42
 FG: 1.000
-fermenting: true
 
 ---
 
