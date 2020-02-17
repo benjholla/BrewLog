@@ -17,7 +17,7 @@ This was an extract kit from [Midwest Homebrewing Supply](https://www.midwestsup
 ## Brew Notes
 Followed the recipe pretty much to the letter. Steeped grains for 20 minutes. I made a 1200 ml yeast starter on a 24 hour stir plate using the Wyeast 1056 American Ale yeast and a can of [Fast Pitch Canned Wort](https://www.northernbrewer.com/products/fast-pitch-canned-wort-4-pack). As I was chilling with my wort chiller I noticed I had forgotten to add the DME (I was trying to do too many things at once), so I heated a gallon of water and added the DME. I continued cooling the original wort and once it was the DME was boiling I added it to the existing wort and finished chilling it. I undershot my OG a little and came out just a tad high. 
 
-I soaked the American oak cubes in 12 oz. of [Bib and Tucker small batch bourbon](https://distiller.com/spirits/bib-tucker-small-batch-bourbon), which has a strong charred vanilla flavor.
+I transferred the beer to a secondary fermenter at two weeks and added the soaked the American oak cubes in 12 oz. of [Bib and Tucker small batch bourbon](https://distiller.com/spirits/bib-tucker-small-batch-bourbon), which has a strong charred vanilla flavor.
 
 ## Tasting Notes
 TBD
