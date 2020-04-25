@@ -3,8 +3,9 @@ layout: brew
 title: Belgian Golden Ale
 yield: 5 gallons
 OG: 1.075
+FG: 1.013
 IBUs: 28
-fermenting: true
+fermenting: false
 
 ---
 
