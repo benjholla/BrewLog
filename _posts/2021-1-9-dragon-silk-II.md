@@ -3,6 +3,7 @@ layout: brew
 title: Dragon's Silk Imperial Stout II
 yield: 5 gallons
 OG: 1.112
+FG: 1.032
 IBUs: 34
 
 ---
